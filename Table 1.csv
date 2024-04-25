@@ -1,0 +1,37 @@
+Submitting author	Year	GEO	Publication author	PMID	Type	Age young	Age old	Ages
+Sonu	2006	GSE4332	Rossi	15967997	ExpArray	2-3	22-24	2-3, 12, 22-24
+Chambers	2007	GSE6503	Chambers	17676974	ExpArray	2	21	2,6,12,21
+	2009		Noda	19345668	ExpArray	3	18-24	3, 18-24
+Norddahl	2011	GSE27686	Norddahl	21549326	ExpArray	2.3 - 2.7	24	2.3-2.7, 24
+Bersenev	2012	GSE39553	Bersenev	22812478	ExpArray	2	20	2, 20
+Beerman	2013	GSE43729	Beerman	23415915	ExpArray	e14.5	25	e14.5, 25
+Wahlestedt	2013	GSE44923	Wahlestedt	23476050	ExpArray			unknown
+Passegué	2014	GSE48893	Flach	25079315	ExpArray	1.3 - 2.7	22-30	1.3- 2.7, 
+Quere	2014	GSE57396	Quere	25002492	bulkRNA	4	20	4, 20
+Sun	2014	GSE47817	Sun	24792119	bulkRNA	4	24	4.24
+Kowalczyk	2015	GSE59114	Kowalczyk	26430063	SC_RNA	2-3	22	2-3, 22
+Welle	2016	GSE76276	Bennett	30388136	ExpArray	1.8	18	1.8, 18
+Grover	2016	GSE70657	Grover	27009448	SC_RNA	2-3	20-25	2-3, 20-25
+Kirschner	2017	GSE87631	Kirschner	28538171	SC_RNA			unknown
+De Boer	2017	GSE100428	Mann	30540934	SC_RNA	1.8 - 2.7	20-24	1.8-2.7, 20-24
+Frenette	2018	GSE109546	Maryanovich	29736022	bulkRNA	1.8-2.3	4.6-5.5	1.8-2.3,4.6-5.5
+Kong	2019	GSE112769	Montecino-Rodrigues	30799276	bulkRNA	1.8-2.7	17-18	
+Mulaw	2018	GSE119466	Grigoryan	30404662	bulkRNA	2-4	20-26	
+Lazare	2020	GSE128050	Renders	33504783	bulkRNA	4-5	20-24	
+Young	2020	GSE151333	Young	33848471	bulkRNA	2	22	2,12,22
+Young	2020	GSE144934	Young	33848471	bulkRNA			young, mid-aged
+Itokawa	2020	GSE162607	Itokawa	35577813	bulkRNA	2.3	20	2.3, 20
+Mansell	2020	GSE156807	Mansell	33086034	bulkRNA			unknown
+Quinn	2022	GSE165695	Wendorff	37118089	bulkRNA	3.6	24	3.6, 24
+Kotovnyuk	2021	GSE163503	Kotovnyuk	34525198	bulkRNA	2	24	2, 12, 24
+Jiya	2022	GSE212480			SC_RNA		30	
+Meng	2023	GSE219092	Meng	37127714	bulkRNA	2	24	
+Von Eyss	2022	GSE157455	Kim	36057685	bulkRNA	3-5	22-28	2-5, 22-28
+Wang	2022	GSE169387	Wang	35484199	ExpArray			unknown
+Ali	2022	GSE197070	Montserrat-Vazquez	36581635	SC_RNA	2.3-2.7	18	2.3-2.7, 18+
+Duarte	2023	GSE216405	Hu	37034577	SC_RNA	2.5	24	2.5, 24
+Duprez	2021	GSE147729	Hérault	33526011	SC_RNA	2	17-18	2, 17-18
+Ropa	2023	GSE221126	Trinh	36650272	bulkRNA	2-4	12-15	2-4, 12-15
+Redmond	2023	GSE227146	Ramalingam	37037837	bulkRNA	3	18	3, 18
+								
+Table 1. Gene expression data sources available in GEO. All ages are given innths unless indicated. Compilation of the open source data available on NCBI GEO and related to the hematopoietic aging in mice (completed in September 2023). Author’s name indicates either first author or contribution author. 								
